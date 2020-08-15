@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1597468997 source:c:\users\shashank\desktop\stringsplit\main.c
+	"test_stringsplit.h"
+
+1597468997 c:\users\shashank\desktop\stringsplit\test\test_stringsplit.h
+
+1597468997 source:c:\users\shashank\desktop\stringsplit\src\stringsplit.c
+	"stringsplit.h"
+	<string.h>
+
+1597468997 c:\users\shashank\desktop\stringsplit\inc\stringsplit.h
+
+1597468997 source:c:\users\shashank\desktop\stringsplit\test\test_stringsplit.c
+	"unity.h"
+	"stringsplit.h"
+	<string.h>
+
+1597052165 c:\users\shashank\desktop\stringsplit\unity\unity.h
+	"unity_internals.h"
+
+1597052165 c:\users\shashank\desktop\stringsplit\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1597052165 source:c:\users\shashank\desktop\stringsplit\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
